@@ -1,7 +1,7 @@
 <?php
 function db_get_pdo()
 {
-    $host = 'localhost';
+    $host = 'svc.sel4.cloudtype.app:30689';
     $port = '3306';
     $dbname = '20301wiki';
     $charset = 'utf8';
